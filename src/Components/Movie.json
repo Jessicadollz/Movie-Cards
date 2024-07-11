@@ -1,0 +1,102 @@
+[
+    {
+        "title": "F.R.I.E.N.D.S",
+        "year": 1994,
+        "director": "Marta Kauffman, David Crane, Wil Calhoun",
+        "duration": "10 Seasons",
+        "genres": ["Sitcom "],
+        "description": "Follow the lives of six reckless adults living in Manhattan, as they indulge in adventures which make their lives both troublesome and happening.",
+        "poster": "./src/assets/Friends.jpg",
+        "background": "./src/assets/Friends2.jpg"
+    },
+    {
+        "title": "Avengers",
+        "year": 1997,
+        "director": "Anthony Russo, Joss Whedon, Joe Russo",
+        "duration": "194 min",
+        "genres": ["Action ", "Adventure"],
+        "description": "S.H.I.E.L.D. leader Nick Fury is compelled to launch the Avengers programme when Loki poses a threat to planet Earth. But the superheroes must learn to work together if they are to stop him in time.",
+        "poster": "./src/assets/Avengers.jpg",
+        "background": "./src/assets/Avengers3.jpg"
+    },
+    {
+        "title": "D A R K",
+        "year": 2017,
+        "director": "Baran bo Odar; Jantje Friese",
+        "duration": "3 Seasons",
+        "genres": ["Thriller ", "Mystery"],
+        "description": "When two children go missing in a small German town, its sinful past is exposed along with the double lives and fractured relationships that exist among four families as they search for the kids. The mystery-drama series introduces an intricate puzzle filled with twists that includes a web of curious characters, all of whom have a connection to the town's troubled history -- whether they know it or not. The story includes supernatural elements that tie back to the same town in 1986. Dark represents the first German original series produced for Netflix.",
+        "poster": "./src/assets/Dark.jpg",
+        "background": "./src/assets/Dark.jpg"
+    },
+    {
+        "title": "Stranger Things",
+        "year": 2016,
+        "director": "The Duffer Brothers",
+        "duration": "4 Seasons",
+        "genres": ["Horror ", "Thriller"],
+        "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
+        "poster": "./src/assets/StrangerThings.jpg",
+        "background": "./src/assets/StrangerThings.jpg"
+    },
+    {
+        "title": "Titanic",
+        "year": 1997,
+        "director": "James Cameron",
+        "duration": "194 min",
+        "genres": ["Romance ", "Adventure"],
+        "description": "Rose, who is being forced to marry a wealthy man, falls in love with Jack, a talented artist, aboard the unsinkable Titanic. Unfortunately, the ship hits an iceberg, endangering their lives.",
+        "poster": "./src/assets/Titanic.jpg",
+        "background": "./src/assets/Titanic.jpg"
+    },
+    {
+        "title": "Barbie",
+        "year": 2023,
+        "director": "Greta Gerwig",
+        "duration": "114 min",
+        "genres": ["Fantasy ", "Melodrama"],
+        "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+        "poster": "./src/assets/Barbie.jpg",
+        "background": "./src/assets/Barbie.jpg"
+    },
+    {
+        "title": "Inception",
+        "year": 2010,
+        "director": "Christopher Nolan",
+        "duration": "148 min",
+        "genres": ["Action ", "Sci-Fi"],
+        "description": "Cobb steals information from his targets by entering their dreams. He is wanted for his alleged role in his wife's murder and his only chance at redemption is to perform a nearly impossible task.",
+        "poster": "./src/assets/Inception.jpg",
+        "background": "./src/assets/Inception.jpg"
+    },
+    {
+        "title": "Spider Man",
+        "year": 2021,
+        "director": "Jon Watts",
+        "duration": "148 min",
+        "genres": ["Action ","Fantasy"],
+        "description": "Spider-Man seeks the help of Doctor Strange to forget his exposed secret identity as Peter Parker. However, Strange's spell goes horribly wrong, leading to unwanted guests entering their universe.",
+        "poster": "./src/assets/SpiderMan.jpg",
+        "background": "./src/assets/SpiderMan.jpg"
+    },
+    {
+        "title": "Joker",
+        "year": 2019,
+        "director": "Todd Phillips",
+        "duration": "122 min",
+        "genres": ["Crime ", "Thriller"],
+        "description": "Arthur Fleck, a party clown, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of crime and chaos.",
+        "poster": "./src/assets/Joker.jpg",
+        "background": "./src/assets/Joker.jpg"
+    },
+    {
+        "title": "John Wick",
+        "year": 2014,
+        "director": "Chad Stahelski",
+        "duration": "4 movie series",
+        "genres": ["Fantasy ", "Melodrama"],
+        "description": "John Wick is an American neo-noir action film series and media franchise created by Derek Kolstad. It centers on the titular character portrayed by actor Keanu Reeves. Wick is a legendary hitman who is reluctantly drawn back into the criminal underworld after retiring.",
+        "poster": "./src/assets/JohnWick.jpg",
+        "background": "./src/assets/JohnWick.jpg"
+    }
+]
