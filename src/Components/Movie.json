@@ -6,8 +6,8 @@
         "duration": "10 Seasons",
         "genres": ["Sitcom "],
         "description": "Follow the lives of six reckless adults living in Manhattan, as they indulge in adventures which make their lives both troublesome and happening.",
-        "poster": "./src/assets/Friends.jpg",
-        "background": "./src/assets/Friends2.jpg"
+        "poster": "https://play-lh.googleusercontent.com/8BkSt5nli4uDN_RGGB-7x2mQR8zMimPXr3-q47xMYpP1m4646LmW77IciYAbUFO4c7cx",
+        "background": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg"
     },
     {
         "title": "Avengers",
@@ -16,8 +16,8 @@
         "duration": "194 min",
         "genres": ["Action ", "Adventure"],
         "description": "S.H.I.E.L.D. leader Nick Fury is compelled to launch the Avengers programme when Loki poses a threat to planet Earth. But the superheroes must learn to work together if they are to stop him in time.",
-        "poster": "./src/assets/Avengers.jpg",
-        "background": "./src/assets/Avengers3.jpg"
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+        "background": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
     },
     {
         "title": "D A R K",
@@ -26,8 +26,8 @@
         "duration": "3 Seasons",
         "genres": ["Thriller ", "Mystery"],
         "description": "When two children go missing in a small German town, its sinful past is exposed along with the double lives and fractured relationships that exist among four families as they search for the kids. The mystery-drama series introduces an intricate puzzle filled with twists that includes a web of curious characters, all of whom have a connection to the town's troubled history -- whether they know it or not. The story includes supernatural elements that tie back to the same town in 1986. Dark represents the first German original series produced for Netflix.",
-        "poster": "./src/assets/Dark.jpg",
-        "background": "./src/assets/Dark.jpg"
+        "poster": "https://m.media-amazon.com/images/I/81oWDX24u+L._UF1000,1000_QL80_.jpg",
+        "background": "https://static0.srcdn.com/wordpress/wp-content/uploads/2020/05/Dark-TV-show-poster.jpg"
     },
     {
         "title": "Stranger Things",
@@ -36,8 +36,8 @@
         "duration": "4 Seasons",
         "genres": ["Horror ", "Thriller"],
         "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
-        "poster": "./src/assets/StrangerThings.jpg",
-        "background": "./src/assets/StrangerThings.jpg"
+        "poster": "https://resizing.flixster.com/Re7RbBktE9oNxCpnf_MQoGexYqk=/fit-in/705x460/v2/https://resizing.flixster.com/0xxuABVVuzJrUT130WFHKE-irEg=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vNzUyMTFhOTktZTU4Ni00ODkyLWJlYjQtZTgxYTllZmU2OGM0LmpwZw==",
+        "background": "https://i.scdn.co/image/ab67616d0000b273bd0db295c0164ddbc0584ebb"
     },
     {
         "title": "Titanic",
@@ -46,8 +46,8 @@
         "duration": "194 min",
         "genres": ["Romance ", "Adventure"],
         "description": "Rose, who is being forced to marry a wealthy man, falls in love with Jack, a talented artist, aboard the unsinkable Titanic. Unfortunately, the ship hits an iceberg, endangering their lives.",
-        "poster": "./src/assets/Titanic.jpg",
-        "background": "./src/assets/Titanic.jpg"
+        "poster": "https://m.media-amazon.com/images/I/81y5YCKOfoL._AC_UF1000,1000_QL80_.jpg",
+        "background": "https://m.media-amazon.com/images/I/81CVRAQi46L._AC_UF894,1000_QL80_.jpg"
     },
     {
         "title": "Barbie",
@@ -56,8 +56,8 @@
         "duration": "114 min",
         "genres": ["Fantasy ", "Melodrama"],
         "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
-        "poster": "./src/assets/Barbie.jpg",
-        "background": "./src/assets/Barbie.jpg"
+        "poster": "https://smhsbreeze.com/wp-content/uploads/2023/09/barbie-image.jpg",
+        "background": "https://images.justwatch.com/poster/306454329/s592/barbie-2023"
     },
     {
         "title": "Inception",
@@ -66,8 +66,8 @@
         "duration": "148 min",
         "genres": ["Action ", "Sci-Fi"],
         "description": "Cobb steals information from his targets by entering their dreams. He is wanted for his alleged role in his wife's murder and his only chance at redemption is to perform a nearly impossible task.",
-        "poster": "./src/assets/Inception.jpg",
-        "background": "./src/assets/Inception.jpg"
+        "poster": "https://www.toutlecd.com/wp-content/uploads/2023/05/maxresdefault-1.jpeg",
+        "background": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
     },
     {
         "title": "Spider Man",
@@ -76,8 +76,8 @@
         "duration": "148 min",
         "genres": ["Action ","Fantasy"],
         "description": "Spider-Man seeks the help of Doctor Strange to forget his exposed secret identity as Peter Parker. However, Strange's spell goes horribly wrong, leading to unwanted guests entering their universe.",
-        "poster": "./src/assets/SpiderMan.jpg",
-        "background": "./src/assets/SpiderMan.jpg"
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg",
+        "background": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0402/AcjaXqwZzggGiKLFdEfHMp0H.png"
     },
     {
         "title": "Joker",
@@ -86,8 +86,8 @@
         "duration": "122 min",
         "genres": ["Crime ", "Thriller"],
         "description": "Arthur Fleck, a party clown, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of crime and chaos.",
-        "poster": "./src/assets/Joker.jpg",
-        "background": "./src/assets/Joker.jpg"
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtUvh8HX9GXyE98BIGSHUqiBuvXQMZP4WE1VPr0ODaZKimkpsl4DJGUl6wHNqygztB8yE&usqp=CAU",
+        "background": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
     },
     {
         "title": "John Wick",
@@ -96,7 +96,7 @@
         "duration": "4 movie series",
         "genres": ["Fantasy ", "Melodrama"],
         "description": "John Wick is an American neo-noir action film series and media franchise created by Derek Kolstad. It centers on the titular character portrayed by actor Keanu Reeves. Wick is a legendary hitman who is reluctantly drawn back into the criminal underworld after retiring.",
-        "poster": "./src/assets/JohnWick.jpg",
-        "background": "./src/assets/JohnWick.jpg"
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv4mhb6PpXz9AO0L2wyotqbFrnvTGtzMKP4x2LD8greG42fFnApugX_vbf_kzyf-xi1w&usqp=CAU",
+        "background": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_.jpg"
     }
 ]
